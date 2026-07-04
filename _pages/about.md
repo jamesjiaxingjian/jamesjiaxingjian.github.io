@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This is James Jiaxing JIAN’s personal academic website. It is currently under construction."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This homepage is the personal academic page of James Jiaxing JIAN. 
+This website is under construction.
 
