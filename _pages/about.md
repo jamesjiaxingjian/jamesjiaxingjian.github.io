@@ -6,5 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is James Jiaxing JIAN’s personal academic website. This website is under construction.
+This is James Jiaxing JIAN’s personal academic website. 
+He is also known as Jiaxing JIAN or Kahing Kien.
 
+# This website is under construction.
