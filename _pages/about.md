@@ -10,4 +10,4 @@ This is James Jiaxing JIAN’s personal academic website.
 
 He is also known as Jiaxing JIAN, or Kahing KIEN. You can also call him James.
 
-**This website is under construction.** Only the “Talks” section is complete.
+**This website is under construction.** Only the homepage and the “Talks” section are complete.
