@@ -22,14 +22,30 @@ Research experience
   * Topic
   * Supervisor: Name
   
-Skills
+language and script
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mandarin (Native)
+  * 简体
+  * 繁體 / 正體
+* English (Proficient)
+* Cantonese (Proficient)
+  * Can speak
+  * Can read 港式中文 / 粵語白話文 / Jyutping
+  * Can type 粵語白話文
+* Hokkien / Taiwanese (Intermediate)
+  * Can speak
+  * Can read 漢字 / Pe̍h-ōe-jī / Tâi-lô
+* Dutch (Intermediate)
+  * Can read
+  * Can speak
+* Hakka (Elementary)
+  * Can understand
+* Teochew (Elementary)
+  * Can understand
+* Ancient Chinese
+  * Can read
+* Jawi
+  * Can read
 
 Publications
 ======
