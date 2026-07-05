@@ -31,7 +31,7 @@ language and script
 * Cantonese (Proficient)
   * Can speak
   * Can read 港式中文 / 粵語白話文 / Jyutping
-  * Can type 粵語白話文
+  * Can type 粵語白話文 (Cantonese input method)
 * Hokkien / Taiwanese (Intermediate)
   * Can speak
   * Can read 漢字 / Pe̍h-ōe-jī / Tâi-lô
