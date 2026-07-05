@@ -14,13 +14,6 @@ Education
 * Ph.D in Chinese Studies, University of Sydney, 2030 (expected)
 * M.A. in Linguistics and Applied Linguistics, Peking University, 2024
 * B.A. in Indonesian, Shanghai International Studies University, 2021
-  
-Research experience
-======
-* Date: Title
-  * University
-  * Topic
-  * Supervisor: Name
 
 Publications
 ======
