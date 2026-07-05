@@ -22,7 +22,7 @@ Research experience
   * Topic
   * Supervisor: Name
   
-language and script
+Languages and Scripts
 ======
 * Mandarin (Native)
   * 简体
