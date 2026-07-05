@@ -28,11 +28,14 @@ language and script
   * 简体
   * 繁體 / 正體
 * English (Proficient)
+* Indonesian (Proficient)
+* Malay (Proficient)
 * Cantonese (Proficient)
   * Can speak
   * Can read 港式中文 / 粵語白話文 / Jyutping
   * Can type 粵語白話文 (Cantonese input method)
-* Hokkien / Taiwanese (Intermediate)
+* Bahasa Gaul (Upper Intermediate)
+* Hokkien / Taiwanese (Upper Intermediate)
   * Can speak
   * Can read 漢字 / Pe̍h-ōe-jī / Tâi-lô
 * Dutch (Intermediate)
