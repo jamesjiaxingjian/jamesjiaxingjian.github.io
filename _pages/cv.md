@@ -42,7 +42,7 @@ language and script
   * Can understand
 * Teochew (Elementary)
   * Can understand
-* Ancient Chinese
+* Classical Chinese
   * Can read
 * Jawi
   * Can read
