@@ -17,7 +17,7 @@ Education
   
 Research experience
 ======
-* Time: Title
+* Date: Title
   * University
   * Topic
   * Supervisor: Name
