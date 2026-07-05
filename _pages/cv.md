@@ -55,9 +55,7 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Not available at this moment.
   
 Service and leadership
 ======
