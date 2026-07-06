@@ -6,7 +6,6 @@ tags:
   - Chinese Indonesians
 ---
 
-
 Klenteng Ancol: Keramat, lords of the land, and autochthonous relations in Chinese Batavia
 ======
 
