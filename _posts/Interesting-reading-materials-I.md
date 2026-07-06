@@ -1,7 +1,7 @@
 ---
-title: 'Interesting Journal Articles'
+title: 'Interesting Reading Materials I'
 date: 2026-07-06
-permalink: /posts/2026/07/interesting-journal-articles/
+permalink: /posts/2026/07/interesting-reading-materials-I/
 tags:
   - Chinese Indonesians
 ---
