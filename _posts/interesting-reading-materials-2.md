@@ -6,7 +6,7 @@ tags:
   - Indonesia
 ---
 
-Being clean is being strong Policing cleanliness and gay vices in the Netherlands Indies in the 1930s
+Being clean is being strong: Policing cleanliness and gay vices in the Netherlands Indies in the 1930s
 ======
 
 Marieke Bloembergen
