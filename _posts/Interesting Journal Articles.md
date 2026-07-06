@@ -1,7 +1,7 @@
 ---
-title: 'Interesting Papers'
+title: 'Interesting Journal Articles'
 date: 2026-07-06
-permalink: /posts/2026/07/interesting-papers/
+permalink: /posts/2026/07/interesting-journal-articles/
 tags:
   - Chinese Indonesians
 ---
