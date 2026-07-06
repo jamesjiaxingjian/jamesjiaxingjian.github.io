@@ -1,7 +1,7 @@
 ---
-title: 'Interesting Reading Materials II'
+title: 'Interesting Reading Materials 2'
 date: 2026-07-06
-permalink: /posts/2026/07/interesting-reading-materials-II/
+permalink: /posts/2026/07/interesting-reading-materials-2/
 tags:
   - Indonesia
 ---
