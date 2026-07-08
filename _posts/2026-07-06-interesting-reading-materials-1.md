@@ -42,3 +42,15 @@ Emily Hertzman
 ABSTRACT
 
 After the fall of Suharto and the retraction of discriminatory laws in Indonesia, many Chinese Indonesian Voluntary Associations (CIVAs) have reemerged. Over the past two decades, hometown associations have proliferated in order to channel support to, express love for, and generate identification with the kampung halaman, or hometown. These associations do not refer to qiaoxiang (侨乡), or the ancestral villages of overseas Chinese in China, but rather hometowns around Indonesia, and members consist of local, Jakarta, or overseas-based Chinese Indonesians who engage in developing their hometowns socially, culturally, politically and economically via a series of activities. The rapid revival of hometown and other types of CVAs in the Indonesian contexts indicates the resiliency of this form of social organization as a diasporic mechanism through which to construct community, articulate feelings of home and belonging, while contributing to regional place making within diasporic imaginaries of hybrid Chineseness. This paper presents a qualitative analysis based on ethnographic research in the city of Singkawang, West Kalimantan.
+
+White Snakes, Black Snakes, and Indonesia in the Global Network of Chinese Narratives
+======
+Josh Stenberg
+Indonesia
+Cornell University Press
+Volume 120, October 2025
+pp. 1-18
+
+Abstract
+
+This article explores the adaptation and indigenization of the Chinese White Snake narrative in Indonesia. While Liang Luo’s work has mapped the story’s transformations across East Asian and Anglophone contexts, this study highlights Indonesia’s significant role as transformer of Chinese cultural narratives such as White Snake. Tracing the White Snake story in the archipelago from the late nineteenth century, the article examines early Malay translations in Indonesia as well as the narrative’s migration into Indonesian popular culture through print, stage, and cinema. By situating the White Snake legend within the broader context not only of Sino-Indonesian culture but also of global reception of Chinese narratives, the article underscores Indonesia’s creative agency and challenges the marginalization of Southeast Asian adaptation in accounts of Chinese culture as a global phenomenon.
