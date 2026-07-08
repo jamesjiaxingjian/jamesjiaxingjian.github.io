@@ -7,4 +7,15 @@ tags:
 ---
 
 😎😎😎
+
 This page ranks places using an equator-centeric perspective. 
+
+Pariaman
+
+Padang
+
+Singapore 
+
+Johor Bahru
+
+Kuching
