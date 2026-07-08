@@ -21,3 +21,16 @@ Johor Bahru
 Kuching
 
 Malacca
+
+Danau Toba
+
+Nilai
+
+Putrajaya 
+
+Petaling Jaya
+
+Kuala Lumpur 
+
+Medan
+
