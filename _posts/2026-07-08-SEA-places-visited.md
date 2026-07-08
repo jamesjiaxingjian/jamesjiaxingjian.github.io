@@ -34,3 +34,14 @@ Kuala Lumpur
 
 Medan
 
+Miri
+
+Taiping
+
+Marang
+
+Keningau 
+
+Kuala Terengganu
+
+George Town
