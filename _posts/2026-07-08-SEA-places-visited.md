@@ -8,7 +8,7 @@ tags:
 
 😎😎😎
 
-This page ranks places using an equator-centeric perspective. 
+This page ranks places using an equator-centric perspective. 
 
 Pariaman
 
@@ -19,3 +19,5 @@ Singapore
 Johor Bahru
 
 Kuching
+
+Malacca
