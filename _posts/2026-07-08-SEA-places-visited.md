@@ -86,4 +86,26 @@ Denpasar
 
 Nusa Lembongan 
 
+Cholon
+
+Ho Chi Minh City
+
 Ban Krut
+
+Nha Trang
+
+Phetchaburi
+
+Samut Sakhon
+
+Bangkok
+
+Ban Pong
+
+Kanchanaburi
+
+Erawan
+
+Sa Pa
+
+Lao Cai
