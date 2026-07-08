@@ -46,6 +46,10 @@ Kuala Terengganu
 
 George Town
 
+Kota Kinabalu 
+
+Sungai Kolok
+
 Alor Setar
 
 Kota Bharu 
@@ -54,3 +58,32 @@ Jakarta
 
 Tangerang 
 
+Langkawi
+
+Yala
+
+Bogor
+
+Semarang
+
+Hat Yai
+
+Songkhla 
+
+Surabaya
+
+Surakarta 
+
+Yogyakarta 
+
+Phuket Town
+
+Padong
+
+Gianyar
+
+Denpasar
+
+Nusa Lembongan 
+
+Ban Krut
