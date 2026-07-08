@@ -45,3 +45,12 @@ Keningau
 Kuala Terengganu
 
 George Town
+
+Alor Setar
+
+Kota Bharu 
+
+Jakarta 
+
+Tangerang 
+
