@@ -78,7 +78,7 @@ Yogyakarta
 
 Phuket Town
 
-Padong
+Patong
 
 Gianyar
 
