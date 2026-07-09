@@ -1,5 +1,5 @@
 ---
-title: 'Places in Southeast Asia Visited'
+title: 'Southeast Asian Places Visited'
 date: 2026-07-08
 permalink: /posts/2026/07/sea-places-visited/
 tags:
