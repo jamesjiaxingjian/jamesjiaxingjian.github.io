@@ -42,21 +42,17 @@ Not available at this moment.
 Languages and Scripts
 ======
 * Mandarin (Native)
-  * 简体
-  * 繁體/正體
+  * 简体&繁體/正體
 * English (Proficient)
 * Indonesian (Proficient)
 * Malay (Proficient)
 * Cantonese (Proficient)
-  * Can speak
-  * Can read 港式中文/粵語白話文/Jyutping
+  * Can speak; Can read 港式中文/粵語白話文/Jyutping
 * Bahasa Gaul (Upper Intermediate)
 * Hokkien/Taiwanese (Upper Intermediate)
-  * Can speak
-  * Can read 漢字/Latin alphabet/Pe̍h-ōe-jī/Tâi-lô
+  * Can speak; Can read 漢字/Latin alphabet/Pe̍h-ōe-jī/Tâi-lô
 * Dutch (Intermediate)
-  * Can read
-  * Can speak
+  * Can read; Can speak
 * Teochew (Basic understanding)
 * Hakka (Basic understanding)
 * Classical Chinese (Can read)
