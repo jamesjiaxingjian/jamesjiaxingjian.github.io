@@ -5,6 +5,7 @@ permalink: /posts/2026/07/interesting-reading-materials-2/
 tags:
   - Indonesia
 ---
+Indonesia
 
 Being clean is being strong: Policing cleanliness and gay vices in the Netherlands Indies in the 1930s
 ======
