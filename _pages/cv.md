@@ -44,7 +44,7 @@ Not available at this moment.
 Languages and Scripts
 ======
 * Mandarin (Native)
-  * 简体&繁體/正體
+  * 简体 & 繁體/正體
 * English (Proficient)
 * Indonesian (Proficient)
 * Malay (Proficient)
