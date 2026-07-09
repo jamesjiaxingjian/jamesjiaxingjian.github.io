@@ -57,11 +57,7 @@ Languages and Scripts
 * Dutch (Intermediate)
   * Can read
   * Can speak
-* Hakka (Elementary)
-  * Can understand
-* Teochew (Elementary)
-  * Can understand
-* Classical Chinese
-  * Can read
-* Jawi
-  * Can read
+* Teochew (Basic understanding)
+* Hakka (Basic understanding)
+* Classical Chinese (Can read)
+* Jawi (Can read)
