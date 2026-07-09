@@ -5,6 +5,7 @@ permalink: /posts/2026/07/interesting-reading-materials-1/
 tags:
   - Chinese Indonesians
 ---
+Chinese Indonesians
 
 Klenteng Ancol: Keramat, lords of the land, and autochthonous relations in Chinese Batavia
 ======
