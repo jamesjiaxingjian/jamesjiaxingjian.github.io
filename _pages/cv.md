@@ -50,11 +50,11 @@ Languages and Scripts
 * Malay (Proficient)
 * Cantonese (Proficient)
   * Can speak; Can read 港式中文/粵語白話文/Jyutping
+* Dutch (Upper Intermediate)
+  * Can read; Can speak
 * Bahasa Gaul (Upper Intermediate)
 * Hokkien/Taiwanese (Upper Intermediate)
   * Can speak; Can read 漢字/Latin alphabet/Pe̍h-ōe-jī/Tâi-lô
-* Dutch (Intermediate)
-  * Can read; Can speak
 * Teochew (Basic understanding)
 * Hakka (Basic understanding)
 * Classical Chinese (Can read)
