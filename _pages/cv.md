@@ -41,7 +41,7 @@ Service and leadership
 ======
 Not available at this moment.
 
-Languages and Scripts
+Language and Script Expertise
 ======
 * Mandarin (Native)
 * English (Proficient)
