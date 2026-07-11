@@ -354,3 +354,26 @@
   }
 
 }
+
+/* Mobile author links horizontal layout */
+
+@media (max-width: 1023px) {
+
+  .author__urls {
+    display: flex !important;
+    flex-wrap: wrap;
+    gap: 0.5rem 1rem;
+    margin-top: 0.75rem !important;
+  }
+
+  .author__urls li {
+    display: inline-block;
+    white-space: nowrap;
+  }
+
+  .author__urls a {
+    margin-bottom: 0 !important;
+    font-size: 0.9rem;
+  }
+
+}
