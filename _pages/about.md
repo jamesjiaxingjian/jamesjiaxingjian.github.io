@@ -22,7 +22,7 @@ James Jiaxing Jian received a Master’s degree in Linguistics from Peking Unive
 {% endfor %}
 </ul>
 
-## Selected Talks
+## Selected Conference Presentations
 
 <ul>
 {% for post in site.talks reversed limit:3 %}
