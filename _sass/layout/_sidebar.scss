@@ -322,3 +322,36 @@
     }
   }
 }
+
+/* Mobile sidebar: always show author links */
+
+@media (max-width: 1023px) {
+
+  .author__urls-wrapper {
+    display: block !important;
+  }
+
+  .author__urls-wrapper button {
+    display: none !important;
+  }
+
+  .author__urls {
+    display: block !important;
+    position: static !important;
+    right: auto !important;
+    width: 100% !important;
+    margin: 1rem 0 0 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    z-index: auto !important;
+  }
+
+  .author__urls::before,
+  .author__urls::after {
+    display: none !important;
+  }
+
+}
