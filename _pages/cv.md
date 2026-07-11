@@ -32,14 +32,6 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-Not available at this moment.
-  
-Service and leadership
-======
-Not available at this moment.
 
 Language and Script Expertise
 ======
