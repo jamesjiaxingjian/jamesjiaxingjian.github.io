@@ -11,9 +11,9 @@ redirect_from:
 
 Biography
 =====
-James Jiaxing Jian received a Master’s degree in Linguistics from Peking University, where he also got intensive academic training in Chinese Indonesian history. He received his Bachelor’s degree in Indonesian from Shanghai International Studies University. 
+James Jiaxing JIAN is currently a PhD student at the University of Sydney (USYD). His research interests include translocal Chinese Indonesians, Chinese communities in Southeast Asia, and Southeast Asian Chinese in Australia, with a focus on culture, identity, history, and languages. 
 
-He is currently a PhD student at the University of Sydney. His research interests include translocal Chinese Indonesians and Chinese communities in Southeast Asia, with a focus on culture, identity, history, and languages.
+He received a Master’s degree in Linguistics from Peking University (PKU), where he also got intensive academic training in Indonesian Studies and Global History. He received his Bachelor’s degree in Indonesian from Shanghai International Studies University (SISU).
 
 Education
 ======
