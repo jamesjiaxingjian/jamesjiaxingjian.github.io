@@ -85,3 +85,19 @@
   margin-top: 2rem;
   line-height: 1.6;
 }
+
+/* Always show sidebar contact links on mobile */
+
+@media (max-width: 768px) {
+
+  /* Always display contact links */
+  .author__urls-wrapper .author__urls {
+    display: block !important;
+  }
+
+  /* Hide the toggle button */
+  .author__urls-wrapper button {
+    display: none !important;
+  }
+
+}
