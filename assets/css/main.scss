@@ -56,3 +56,21 @@
   }
 
 }
+
+/* Sidebar font size adjustment */
+
+@media (min-width: 1024px) {
+
+  .sidebar {
+    font-size: 1.05rem;
+  }
+
+  .author__name {
+    font-size: 1.1rem;
+  }
+
+  .author__bio {
+    font-size: 1.05rem;
+  }
+
+}
