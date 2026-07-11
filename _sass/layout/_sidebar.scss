@@ -377,3 +377,13 @@
   }
 
 }
+
+/* Hide GitHub link on mobile */
+
+@media (max-width: 1023px) {
+
+  .author__urls a[href*="github.com"] {
+    display: none !important;
+  }
+
+}
