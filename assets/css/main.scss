@@ -36,4 +36,23 @@
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv"
-;
+
+/* Mobile navigation button */
+
+@media (max-width: 768px) {
+
+  .greedy-nav button {
+    font-size: 1.2rem;
+    padding: 10px 14px;
+  }
+
+  .greedy-nav button .navicon {
+    width: 25px;
+  }
+
+  .menu-text {
+    font-size: 1rem;
+    margin-left: 8px;
+  }
+
+}
