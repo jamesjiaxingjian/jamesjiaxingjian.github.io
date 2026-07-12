@@ -1,9 +1,9 @@
 ---
-title: "Conference Presentation at 26th Asian Studies Association of Australia (ASAA) Biennial Conference"
+title: "Transnationally Localised Chinese Epistemology and Identity: Nantian Leyuan in 1930s Indonesia"
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/2026-June-29-ASAA
-venue: "Deakin University"
+venue: "26th Asian Studies Association of Australia (ASAA) Biennial Conference at Deakin University"
 date: 29-June-2026
 location: "Online"
 ---
