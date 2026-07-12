@@ -12,6 +12,8 @@ Why there is Chinese privilege in Singapore, but it’s not analogous to White p
 Sai Siew Min
 academia.sg
 
+[link](https://www.academia.sg/academic-views/why-there-is-chinese-privilege-in-singapore-but-its-not-analogous-to-white-privilege/)
+
 Summary
 
 While scholars, commentators and politicians acknowledge the existence of racism and racialised privilege in Singapore, some suggest that the concept of Chinese privilege is too simplistic or inapplicable because it draws from a disanalogous context. The original 1988 paper by Peggy McIntosh offers a definition of “White privilege” based on the privilege system that exists in the United States: the “invisible and weightless knapsack” of “unearned assets that [a White person] can count on cashing in each day, but about which [they are] “meant” to remain oblivious”. The author identifies key ways in which the privilege system that exists in Singapore differs, so that Chinese privilege–while it exists–must also be understood differently:
