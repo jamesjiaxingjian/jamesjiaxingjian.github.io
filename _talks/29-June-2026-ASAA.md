@@ -3,7 +3,7 @@ title: "Transnationally Localised Chinese Epistemology and Identity: Nantian Ley
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/2026-June-29-ASAA
-venue: "26th Asian Studies Association of Australia (ASAA) Biennial Conference at Deakin University"
+venue: "26th Asian Studies Association of Australia (ASAA) Biennial Conference"
 date: 29-June-2026
 location: "Online"
 ---
