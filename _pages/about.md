@@ -8,7 +8,7 @@ redirect_from:
 ---
 This is James Jiaxing JIAN’s personal academic website. 
 
-James Jiaxing JIAN is currently a PhD student at the University of Sydney (USYD). His research interests include translocal Chinese Indonesians, Chinese communities in Southeast Asia, and Southeast Asian Chinese in Australia, with a focus on culture, identity, history, and languages.
+James Jiaxing JIAN is currently a PhD student at the University of Sydney (USYD). His research interests include translocal Chinese communities in Southeast Asia and the indigenisation of Chinese culture in Southeast Asia, with a focus on Chinese Indonesians, and Chinese communities in archipelagic Southeast Asia.
 
 He is also known as Jiaxing JIAN, or Kahing KIEN. You can also call him James.
 
