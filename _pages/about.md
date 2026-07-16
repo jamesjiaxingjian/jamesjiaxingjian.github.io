@@ -14,6 +14,8 @@ He is also known as Jiaxing JIAN, or Kahing KIEN. You can also call him James.
 
 James Jiaxing Jian received a Master’s degree in Linguistics from Peking University (PKU), where he also got intensive academic training in Indonesian Studies and Global History. He received his Bachelor’s degree in Indonesian from Shanghai International Studies University (SISU). 
 
+**Keywords**: Chinese Indonesians, Chinese culture in Southeast Asia, Southeast Asian Chinese, Chinese Australians
+
 ## Selected Publications
 
 <ul>
@@ -29,7 +31,5 @@ James Jiaxing Jian received a Master’s degree in Linguistics from Peking Unive
   {% include archive-single-talk-cv.html %}
 {% endfor %}
 </ul>
-
-**Keywords**: Chinese Indonesians, Chinese culture in Southeast Asia, Southeast Asian Chinese, Chinese Australians
 
 <a href="/cv/" class="btn btn--primary">View my CV</a>
