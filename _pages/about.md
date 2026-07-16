@@ -30,5 +30,6 @@ James Jiaxing Jian received a Master’s degree in Linguistics from Peking Unive
 {% endfor %}
 </ul>
 
+**Keywords**: Chinese Indonesians, Chinese culture in Southeast Asia, Southeast Asian Chinese, Chinese Australians
 
 <a href="/cv/" class="btn btn--primary">View my CV</a>
