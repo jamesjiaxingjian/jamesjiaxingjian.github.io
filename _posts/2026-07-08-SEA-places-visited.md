@@ -8,7 +8,7 @@ tags:
 
 😎😎😎
 
-This page ranks places using an equator-centric perspective. 
+This page ranks places using an equator-centric perspective. Places related to Southeast Asia but not located within the demarcated boundaries of Southeast Asia are not listed here.
 
 Pariaman
 
