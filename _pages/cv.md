@@ -40,7 +40,7 @@ Language and Script Expertise
 * Dutch; Hokkien/Taiwanese (Upper Intermediate)
 * Classical Chinese (Can read)
 * Jawi; Hangul (Can read scripts)
-* Teochew & Hakka (Basic understanding)
+* Teochew; Hakka (Basic understanding)
 
 Key Words
 ======
