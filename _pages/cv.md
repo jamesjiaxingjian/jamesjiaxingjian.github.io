@@ -36,15 +36,10 @@ Talks
 Language and Script Expertise
 ======
 * Mandarin (Native)
-* English (Proficient)
-* Indonesian (Proficient)
-* Malay (Proficient)
-* Cantonese (Proficient)
-* Dutch (Upper Intermediate)
-* Bahasa Gaul (Upper Intermediate)
-* Hokkien/Taiwanese (Upper Intermediate)
+* English; Indonesian; Malay; Cantonese (Proficient)
+* Dutch; Hokkien/Taiwanese (Upper Intermediate)
 * Classical Chinese (Can read)
-* Jawi (Can read)
+* Jawi; Hangul (Can read scripts)
 * Teochew & Hakka (Basic understanding)
 
 Key Words
