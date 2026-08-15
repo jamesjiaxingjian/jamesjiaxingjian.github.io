@@ -81,9 +81,16 @@
   line-height: 1.3;
 }
 
-.page__content > p[style="font-size: smaller"] {
-  margin-top: 2rem;
-  line-height: 1.6;
+/* Publication links */
+
+.publication-links {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  font-size: 1em;
+}
+
+.publication-links a {
+  font-weight: 600;
 }
 
 /* Always show sidebar contact links on mobile */
