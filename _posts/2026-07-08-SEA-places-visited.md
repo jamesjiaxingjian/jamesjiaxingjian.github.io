@@ -18,6 +18,8 @@ Singapore
 
 Johor Bahru
 
+Manado
+
 Kuching
 
 Malacca
@@ -60,9 +62,13 @@ Tangerang
 
 Langkawi
 
+Depok
+
 Yala
 
 Bogor
+
+Bandung
 
 Semarang
 
@@ -76,15 +82,15 @@ Surakarta
 
 Yogyakarta 
 
-Phuket Town
-
-Patong
+Phuket
 
 Gianyar
 
 Denpasar
 
 Nusa Lembongan 
+
+Nusa Dua
 
 Cholon
 
