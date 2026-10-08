@@ -39,7 +39,7 @@ Language and Script Expertise
 * English; Indonesian; Malay; Cantonese (Proficient)
 * Dutch; Hokkien/Taiwanese (Upper Intermediate)
 * Classical Chinese (Can read)
-* Jawi; Hangul (Can read scripts)
+* Jawi (Can read scripts)
 * Teochew; Hakka (Basic understanding)
 
 Key Words
