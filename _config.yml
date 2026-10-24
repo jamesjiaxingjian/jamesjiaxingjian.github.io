@@ -43,7 +43,7 @@ author:
   ssrn             : # URL
   pubmed           : # URL
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=60796715200"
   zotero           : # URL
 
 
