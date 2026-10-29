@@ -108,39 +108,3 @@
   }
 
 }
-
-/* Custom footer fix */
-.page__footer {
-  clear: both;
-  position: relative;
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-  font-size: 0.7rem;
-  line-height: 1.5;
-  padding: 1rem 1.5rem;
-  margin-top: 2rem;
-  z-index: 1;
-}
-
-.page__footer footer {
-  max-width: 100%;
-  box-sizing: border-box;
-}
-
-.page__footer-copyright {
-  font-size: 0.7rem;
-  line-height: 1.5;
-  overflow-wrap: anywhere;
-}
-
-.page__footer-follow {
-  font-size: 0.75rem;
-  line-height: 1.5;
-}
-
-@media (max-width: 768px) {
-  .page__footer {
-    padding: 1rem;
-  }
-}
