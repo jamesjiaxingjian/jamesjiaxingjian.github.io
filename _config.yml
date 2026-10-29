@@ -33,7 +33,7 @@ author:
   email            : "jjia6141@uni.sydney.edu.au" 
 
   # Academic websites
-  academia         : "https://sydney.academia.edu/JiaxingJian"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=AoXNmkEAAAAJ"
   inspire-hep      : # URL
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/James-Jiaxing-Jian"
+  researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=60796715200"
   zotero           : # URL
 
