@@ -51,20 +51,26 @@ layout: default
   <p>Recommended citation: {{ page.citation }}</p>
 {% endif %}
 
-{% if page.paperurl or page.slidesurl or page.bibtexurl %}
+
+{% if page.paperurl or page.pdfurl or page.slidesurl or page.bibtexurl %}
   <p class="publication-links">
     {% if page.paperurl %}
-      <a href="{{ page.paperurl }}">Download Paper</a>
+      <a href="{{ page.paperurl }}" target="_blank">Read Online</a>
+    {% endif %}
+
+    {% if page.pdfurl %}
+      {% if page.paperurl %} | {% endif %}
+      <a href="{{ page.pdfurl }}" target="_blank">Download PDF</a>
     {% endif %}
 
     {% if page.slidesurl %}
-      {% if page.paperurl %} | {% endif %}
-      <a href="{{ page.slidesurl }}">Download Slides</a>
+      {% if page.paperurl or page.pdfurl %} | {% endif %}
+      <a href="{{ page.slidesurl }}" target="_blank">Download Slides</a>
     {% endif %}
 
     {% if page.bibtexurl %}
-      {% if page.paperurl or page.slidesurl %} | {% endif %}
-      <a href="{{ page.bibtexurl }}">Download Bibtex</a>
+      {% if page.paperurl or page.pdfurl or page.slidesurl %} | {% endif %}
+      <a href="{{ page.bibtexurl }}" target="_blank">Download Bibtex</a>
     {% endif %}
   </p>
 {% endif %}
