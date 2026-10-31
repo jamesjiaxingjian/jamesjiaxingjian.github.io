@@ -44,4 +44,4 @@ Language and Script Expertise
 
 Key Words
 ======
-Chinese Indonesians, Chinese culture in Southeast Asia, Southeast Asian Chinese, Chinese Australians
+Chinese Indonesians, Chinese culture in Southeast Asia, Southeast Asian Chinese, Chinese Australians, Indonesian Studies
