@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student at the University of Sydney"
   location         : # URL
-  employer         : "University of Sydney"
+  employer         : # example:
   uri              : # URL
   email            : "jjia6141@uni.sydney.edu.au" 
 
