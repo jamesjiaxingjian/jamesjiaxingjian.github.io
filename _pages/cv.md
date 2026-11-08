@@ -17,7 +17,6 @@ He received a Master’s degree in Linguistics from Peking University (PKU), whe
 
 Education
 ======
-* Ph.D in Chinese Studies, University of Sydney, 2031 (expected)
 * M.A. in Linguistics and Applied Linguistics, Peking University, 2024
 * B.A. in Indonesian, Shanghai International Studies University, 2021
 
